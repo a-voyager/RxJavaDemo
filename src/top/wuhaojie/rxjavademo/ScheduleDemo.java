@@ -19,7 +19,7 @@ public class ScheduleDemo {
 						System.out.println(arg0.intValue());
 					}
 				});
-		while (true)
-			;
+		while (true) {
+		}
 	}
 }
